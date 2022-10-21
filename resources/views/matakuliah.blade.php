@@ -20,9 +20,14 @@
           </div>
         </div>
       </nav>
-<h3> Data Mata Kuliah </h3>
+<br>
+<br><p class="container">Nama : Willi</p>
+<p class="container">Student ID : 03081200028</p>
+<p class="container">Term : 1214</p>
+<p class="container">Total SKS : 18</p>
+<h3 class="container"> Data Mata Kuliah </h3>
 
-<table class="table table-dark table-striped">
+<table class="table table-dark table-striped container">
     <tr>
         <th>No</th>
         <th>Kode Mata Kuliah </th>
